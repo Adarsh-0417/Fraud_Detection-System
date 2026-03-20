@@ -2,7 +2,7 @@
 
 📌 Overview
 
-This project builds an intelligent fraud detection system for UPI transactions using machine learning.
+This project builds an intelligent fraud detection system for transactions using machine learning.
 Instead of simple rule-based checks, the system learns behavioral patterns and identifies anomalies in real-time.
 
 🎯 Problem Statement
