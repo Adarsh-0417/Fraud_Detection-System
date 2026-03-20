@@ -1,4 +1,4 @@
-🚨 UPI Fraud Detection System
+🚨 Fraud Detection System
 
 📌 Overview
 
